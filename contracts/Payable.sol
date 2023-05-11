@@ -152,13 +152,39 @@ contract TestDelegateCall {
 }
 
 contract DelegateCall {
-        uint public num;
+    uint public num;
     address public sender;
     uint public value;
+    
     function setVars(address _test,uint _num) external payable {
          (bool success, bytes memory data) = _test.delegatecall(
-            abi.encodeWithSignature(TestDelegateCall.setVars.selector,_num)
+            abi.encodeWithSelector(TestDelegateCall.setVars.selector, _num)
          );
+         require(success,"delegatecall failed");
+    }
+
+}
+
+
+
+contract Account {
+
+    address public owner;
+    address public bank;
+    constructor(address _owner) payable{
+        owner = _owner;
+        bank = msg.sender;
+    }
+}
+
+contract AccountFactory {
+
+    Account[] public accounts;
+    
+    function createAccount(address _owner) external{
+        // {value:111} 主币
+        Account account = new Account{value:111}(_owner);
+        accounts.push(account);
     }
 
 }

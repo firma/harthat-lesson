@@ -1,0 +1,1 @@
+[{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"gas","type":"uint256"}],"name":"Log","type":"event"},{"stateMutability":"payable","type":"receive"}]

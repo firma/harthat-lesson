@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de9d08ea-23e9-474f-a7f0-de1b766c68ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.mocharc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/AccessControl.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/AccessControl.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/AccessControl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Account.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Account.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Account.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/AccountFactory.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/AccountFactory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/AccountFactory.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/ArrayLib.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/ArrayLib.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/ArrayLib.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Call.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Call.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Call.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/CallInterface.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/CallInterface.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/CallInterface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/DelegateCall.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/DelegateCall.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/DelegateCall.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/EthReceve.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/EthReceve.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/EthReceve.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/EtherWallet.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/EtherWallet.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/EtherWallet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Fallback.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Fallback.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Fallback.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/ICounter.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/ICounter.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/ICounter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Kill.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Kill.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Kill.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Lock.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Lock.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Match.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Match.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Match.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Payable.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Payable.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/Payable.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/SendEther.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/SendEther.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/SendEther.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/TestDelegateCall.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/TestDelegateCall.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/TestDelegateCall.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/VerifySig.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/VerifySig.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/VerifySig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/testCall.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/testCall.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/contracts/testCall.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/solc-output-compile-all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/AccessControl.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/DutchAuction.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/ERC721.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/Hash.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/IERC20.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/Kill.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/Math.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/MultiSigWallet.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/PiggyBank.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/Receiver.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/Sign.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/Helper.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/Helper.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/Payable.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/Payable.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="p44lheiz" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PdkG9pg1SausAkAZhkWcLM2WbO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/tianming/Documents/project/code/javascript/hard",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de9d08ea-23e9-474f-a7f0-de1b766c68ab" name="Changes" comment="" />
+      <created>1683794247249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683794247249</updated>
+      <workItem from="1683794248562" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
